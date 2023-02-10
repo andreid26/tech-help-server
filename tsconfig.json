@@ -1,0 +1,16 @@
+{
+    "version": "4.4.4",
+    "compilerOptions": {
+      "outDir": "./dist",
+      "lib": ["ES5", "ES6"],
+      "skipLibCheck": true,
+      "target": "ES6",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+    },
+    "include": ["./src/**/*"]
+  }
+  
