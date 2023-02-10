@@ -4,6 +4,5 @@ export interface IUser {
     username?: string;
     password: string;
     error?:string;
-    restaurantId?: boolean;
     isAdministrator?: boolean;
 }
